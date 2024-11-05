@@ -13,6 +13,5 @@ print("Hello\nWorld")
 # Use the plus symbol `+` to concatenate different strings together
 
 print("My name is" + " " + "Haseeb")
-
 # will output: "My name is Angela"
 
