@@ -1,17 +1,8 @@
-# 1. New Line Escape Sequence
 
-# Learn to use `\n` to add a new line to strings.
+city =input("What is the city that you grew up in?: ")
 
-print("Hello")
-print("Word")
+pet =input("What is Pet name?: ")
 
-# is the same as:
+band_name = city+" "+pet
 
-print("Hello\nWorld")
-
-# 2. String Concatenation
-# Use the plus symbol `+` to concatenate different strings together
-
-print("My name is" + " " + "Haseeb")
-# will output: "My name is Angela"
-
+print("your band name is: "+band_name)
