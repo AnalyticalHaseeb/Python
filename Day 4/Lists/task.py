@@ -1,5 +1,5 @@
-import sys
-import random
-import my_module
 
-print(random.randint(1,10))
+
+my_list = ["Salman","Haseeb","Ali","Noman","Ahmed"]
+
+print(my_list)
