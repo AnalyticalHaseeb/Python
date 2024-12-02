@@ -9,3 +9,4 @@ choice=random.randint(0, len(friends)-1)
 
 print(friends[choice])
 
+print (random.choice(friends))

@@ -6,4 +6,11 @@ states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia", "Conne
                      "North Dakota", "South Dakota", "Montana", "Washington", "Idaho", "Wyoming", "Utah", "Oklahoma",
                      "New Mexico", "Arizona", "Alaska", "Hawaii"]
 
-print(states_of_america)
+
+
+friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
+
+
+america_friends = [friends,states_of_america]
+
+print(america_friends)
